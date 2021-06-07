@@ -1,7 +1,8 @@
 # HTML
 
 * <details><summary>HTML5 теги, как сделать верстку семантичной и зачем это нужно?</summary>
-<p>просто теги )</p></details>
+ <p> просто теги )</p>
+</details>
 * <details><summary> Что такое `doctype` и зачем он нужен?
 * <details><summary> Какие есть отличия у тегов `div`, `p`, `span`, `a`?
 * <details><summary> Что такое инлайновые элементы (например, `b`, `i`, `strong`, `em`)?
