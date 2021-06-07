@@ -1,10 +1,10 @@
 # HTML
 
 * <details><summary>HTML5 теги, как сделать верстку семантичной и зачем это нужно?</summary></details>
-* Что такое `doctype` и зачем он нужен?
-* Какие есть отличия у тегов `div`, `p`, `span`, `a`?
-* Что такое инлайновые элементы (например, `b`, `i`, `strong`, `em`)?
-* Как создавать таблицы в html?
+* <details><summary> Что такое `doctype` и зачем он нужен?
+* <details><summary> Какие есть отличия у тегов `div`, `p`, `span`, `a`?
+* <details><summary> Что такое инлайновые элементы (например, `b`, `i`, `strong`, `em`)?
+* <details><summary> Как создавать таблицы в html?
   * `border-spacing`, `border-collapse`
   * `colspan`, `rowspan`
   * `table-layout`
