@@ -1,6 +1,6 @@
 # HTML
 
-<details><summary>HTML5 теги, как сделать верстку семантичной и зачем это нужно?</summary>
+* <details><summary>HTML5 теги, как сделать верстку семантичной и зачем это нужно?</summary>
  <p> просто теги )</p>
 </details>
 * <details><summary> Что такое `doctype` и зачем он нужен?
